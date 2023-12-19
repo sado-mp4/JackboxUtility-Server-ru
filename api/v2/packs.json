@@ -2,31 +2,31 @@
     "tags":[
        {
             "id":"talking",
-            "name":"Discussion",
+            "name":"Дискуссии",
             "icon":"megaphone",
             "description":"Игры, которые требуют или выигрывают от громкого обсуждения между игроками."
        },
        {
        	    "id":"drawing",
-            "name":"Drawing",
+            "name":"С элементами рисования",
             "icon":"edit",
             "description":"В этих играх надо рисовать."
        },
        {
        	    "id":"deduction",
-            "name":"Strategy",
+            "name":"Стратегии",
             "icon":"comment_urgent",
             "description":"Вам придется хорошо подумать о своих действиях в этих играх.."
        },
        {
        	    "id":"knowledge",
-            "name":"Trivia",
+            "name":"Викторины",
             "icon":"unknown",
             "description":"Это викторины."
        },
        {
             "id":"writing",
-            "name":"Writing",
+            "name":"Работа с текстом",
             "icon":"text_align_middle",
             "description":"Вам придется писать в этих играх."
         }
@@ -90,7 +90,7 @@
                     {
                         "id": "ydkj2015_music",
                         "linked_game": "ydkj2015",
-                        "name": "You Don't Know Jack 2015",
+                        "name": "А голову ты не забыл? 2015",
                         "authors": "SiIvaGunner",
                         "small_description": "Includes Jackbox rips from SiIvaGunner",
                         "patch_type": {
@@ -107,7 +107,7 @@
         "games":[
             {
                 "id":"ydkj2015",
-                "name":"You Don't Know Jack 2015",
+                "name":"А голову ты не забыл? 2015",
                 "background":"game_backgrounds/YDKJ2015.webp",
                 "path":"games/YDKJ2015",
                 "game_info":{
@@ -243,7 +243,7 @@
             },
             {
                 "id":"lieswatter",
-                "name":"Lie Swatter",
+                "name":"Мухи-врухи",
                 "background":"game_backgrounds/LieSwatter.webp",
                 "path":"games/LieSwatter",
                 "game_info":{
@@ -287,7 +287,7 @@
             },
             {
                 "id":"fibbagexl",
-                "name":"Fibbage XL",
+                "name":"Бредовуха XL",
                 "background":"game_backgrounds/FibbageXL.webp",
                 "path":"games/FibbageXL",
                 "game_info":{
@@ -365,7 +365,7 @@
         "games":[
             {
                 "id":"fibbage2",
-                "name":"Fibbage 2",
+                "name":"Бредовуха 2",
                 "background":"game_backgrounds/Fibbage2.webp",
                 "path":"games/Fibbage2",
                 "game_info":{
@@ -413,7 +413,7 @@
             },
             {
                 "id":"earwax",
-                "name":"Earwax",
+                "name":"Звукварь/МР3-бред",
                 "background":"game_backgrounds/Earwax.webp",
                 "path":"games/Earwax",
                 "game_info":{
@@ -460,7 +460,7 @@
             },
             {
                 "id":"bidiots",
-                "name":"Bidiots",
+                "name":"Дуракцион",
                 "background":"game_backgrounds/Bidiots.webp",
                 "path":"games/Bidiots",
                 "game_info":{
@@ -507,7 +507,7 @@
             },
             {
                 "id":"quiplashxl",
-                "name":"Quiplash XL",
+                "name":"Смехлыст XL",
                 "background":"game_backgrounds/QuiplashXL.webp",
                 "path":"games/QuiplashXL",
                 "game_info":{
@@ -553,7 +553,7 @@
                 ]
             },            {
                 "id":"bombcorp",
-                "name":"Bomb Corp.",
+                "name":"Бомб Корп.",
                 "game_info":{
                     "players":{
                         "min":1,
@@ -677,7 +677,7 @@
         "games":[
             {
                 "id":"quiplash2",
-                "name":"Quiplash 2",
+                "name":"Смехлыст 2",
                 "background":"game_backgrounds/Quiplash2.webp",
                 "path":"games/Quiplash2",
                 "game_info":{
