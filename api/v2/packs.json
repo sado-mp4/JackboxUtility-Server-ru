@@ -4,31 +4,31 @@
             "id":"talking",
             "name":"Discussion",
             "icon":"megaphone",
-            "description":"Games that require or benefit from out loud discussion between players."
+            "description":"Игры, которые требуют или выигрывают от громкого обсуждения между игроками."
        },
        {
        	    "id":"drawing",
             "name":"Drawing",
             "icon":"edit",
-            "description":"You'll have to draw in these games."
+            "description":"В этих играх надо рисовать."
        },
        {
        	    "id":"deduction",
             "name":"Strategy",
             "icon":"comment_urgent",
-            "description":"You'll have to think well of your actions in these games."
+            "description":"Вам придется хорошо подумать о своих действиях в этих играх.."
        },
        {
        	    "id":"knowledge",
             "name":"Trivia",
             "icon":"unknown",
-            "description":"Test your knowledge with these games."
+            "description":"Это викторины."
        },
        {
             "id":"writing",
             "name":"Writing",
             "icon":"text_align_middle",
-            "description":"You'll have to write in these games."
+            "description":"Вам придется писать в этих играх."
         }
     ],
     "patchsCategories": [
@@ -50,7 +50,7 @@
     {
         "id":"jpp1",
         "name":"The Jackbox Party Pack",
-        "description":"Year of release: 2014",
+        "description":"Год выпуска: 2014",
         "launchers_id":{
             "steam":"331670",
             "epic":"Feverfew"
@@ -115,7 +115,7 @@
                         "min":1,
                         "max":4
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -154,7 +154,7 @@
             },
             {
                 "id":"drawful",
-                "name":"Drawful",
+                "name":"Рисовач",
                 "background":"game_backgrounds/Drawful.webp",
                 "path":"games/Drawful",
                 "game_info":{
@@ -162,7 +162,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -199,7 +199,7 @@
             },
             {
                 "id":"wordspud",
-                "name":"Word Spud",
+                "name":"Словоблуд",
                 "background":"game_backgrounds/WordSpud.webp",
                 "path":"games/WordSpud",
                 "game_info":{
@@ -207,7 +207,7 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"10 - 15 minutes",
+                    "length":"10 - 15 минут",
                     "playtime":{
                         "min":10,
                         "max":15
@@ -251,7 +251,7 @@
                         "min":1,
                         "max":100
                     },
-                    "length":"10 - 15 minutes",
+                    "length":"10 - 15 минут",
                     "playtime":{
                         "min":10,
                         "max":15
@@ -295,7 +295,7 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -337,7 +337,7 @@
     {
         "id":"jpp2",
         "name":"The Jackbox Party Pack 2",
-        "description":"Year of release: 2015",
+        "description":"Год выпуска: 2015",
         "launchers_id":{
             "steam":"397460",
             "epic":"Lilac"
@@ -373,7 +373,7 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -421,7 +421,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 25 minutes",
+                    "length":"15 - 25 минут",
                     "playtime":{
                         "min":15,
                         "max":25
@@ -468,7 +468,7 @@
                         "min":3,
                         "max":6
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -515,7 +515,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -559,7 +559,7 @@
                         "min":1,
                         "max":4
                     },
-                    "length":"5 - 10 minutes",
+                    "length":"5 - 10 минут",
                     "playtime":{
                         "min":5,
                         "max":10
@@ -606,7 +606,7 @@
     {
         "id":"jpp3",
         "name":"The Jackbox Party Pack 3",
-        "description":"Year of release: 2016",
+        "description":"Год выпуска: 2016",
         "launchers_id":{
             "steam":"434170",
             "epic":"Orchid"
@@ -685,7 +685,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -732,7 +732,7 @@
                         "min":1,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -779,7 +779,7 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"10 - 15 minutes",
+                    "length":"10 - 15 минут",
                     "playtime":{
                         "min":10,
                         "max":15
@@ -826,7 +826,7 @@
                         "min":3,
                         "max":6
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -875,7 +875,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -920,7 +920,7 @@
     {
         "id":"jpp4",
         "name":"The Jackbox Party Pack 4",
-        "description":"Year of release: 2017",
+        "description":"Год выпуска: 2017",
         "launchers_id":{
             "steam":"610180",
             "epic":"Snowdrop"
@@ -999,7 +999,7 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -1047,7 +1047,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -1094,7 +1094,7 @@
                         "min":3,
                         "max":7
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -1142,7 +1142,7 @@
                         "min":3,
                         "max":16
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -1189,7 +1189,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -1233,7 +1233,7 @@
     {
         "id":"jpp5",
         "name":"The Jackbox Party Pack 5",
-        "description":"Year of release: 2018",
+        "description":"Год выпуска: 2018",
         "launchers_id":{
             "steam":"774461",
             "epic":"Geranium"
@@ -1312,7 +1312,7 @@
                         "min":1,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -1359,7 +1359,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -1407,7 +1407,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -1454,7 +1454,7 @@
                         "min":1,
                         "max":6
                     },
-                    "length":"10 - 15 minutes",
+                    "length":"10 - 15 минут",
                     "playtime":{
                         "min":10,
                         "max":15
@@ -1501,7 +1501,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -1548,7 +1548,7 @@
     {
         "id":"jpp6",
         "name":"The Jackbox Party Pack 6",
-        "description":"Year of release: 2019",
+        "description":"Год выпуска: 2019",
         "launchers_id":{
             "steam":"1005300",
             "epic":"Astrapia"
@@ -1655,7 +1655,7 @@
                         "min":1,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -1703,7 +1703,7 @@
                         "min":3,
                         "max":6
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -1751,7 +1751,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -1800,7 +1800,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"10 - 15 minutes",
+                    "length":"10 - 15 минут",
                     "playtime":{
                         "min":10,
                         "max":15
@@ -1847,7 +1847,7 @@
                         "min":4,
                         "max":10
                     },
-                    "length":"15 - 25 minutes",
+                    "length":"15 - 25 минут",
                     "playtime":{
                         "min":15,
                         "max":25
@@ -1894,7 +1894,7 @@
     {
         "id":"jpp7",
         "name":"The Jackbox Party Pack 7",
-        "description":"Year of release: 2020",
+        "description":"Год выпуска: 2020",
         "launchers_id":{
             "steam":"1211630",
             "epic":"7fb6ce95c6d04a44a55fef16ea0db4c9"
@@ -1987,7 +1987,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -2033,7 +2033,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -2081,7 +2081,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -2128,7 +2128,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -2175,7 +2175,7 @@
                         "min":2,
                         "max":6
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -2219,7 +2219,7 @@
     {
         "id":"jpp8",
         "name":"The Jackbox Party Pack 8",
-        "description":"Year of release: 2021",
+        "description":"Год выпуска: 2021",
         "launchers_id":{
             "steam":"1552350",
             "epic":"67003fc4eaa444608acf083a08dc907e"
@@ -2255,7 +2255,7 @@
                         "min":3,
                         "max":10
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -2303,7 +2303,7 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"15 - 25 minutes",
+                    "length":"15 - 25 минут",
                     "playtime":{
                         "min":15,
                         "max":25
@@ -2350,7 +2350,7 @@
                         "min":3,
                         "max":10
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -2397,7 +2397,7 @@
                         "min":2,
                         "max":10
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -2446,7 +2446,7 @@
                         "min":4,
                         "max":8
                     },
-                    "length":"20 - 30 minutes",
+                    "length":"20 - 30 минут",
                     "playtime":{
                         "min":20,
                         "max":30
@@ -2491,7 +2491,7 @@
     {
         "id":"jpp9",
         "name":"The Jackbox Party Pack 9",
-        "description":"Year of release: 2022",
+        "description":"Год выпуска: 2022",
         "launchers_id":{
             "steam":"1850960",
             "epic":"ec6f77d356b247dc8d210850de8a3e2f"
@@ -2527,7 +2527,7 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -2573,7 +2573,7 @@
                         "min":4,
                         "max":9
                     },
-                    "length":"25 - 30 minutes",
+                    "length":"25 - 30 минут",
                     "playtime":{
                         "min":25,
                         "max":30
@@ -2620,7 +2620,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -2669,7 +2669,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -2716,7 +2716,7 @@
                         "min":1,
                         "max":10
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -2762,7 +2762,7 @@
     {
         "id": "jpp10",
         "name": "The Jackbox Party Pack 10",
-        "description": "Year of release: 2023",
+        "description": "Год выпуска: 2023",
         "launchers_id": {
             "steam": "2216830",
             "epic":"fddfaf1422fb43b08d3ccc0fcc110a65"
@@ -2811,7 +2811,7 @@
                     "moderation": "FULL_MODERATION",
                     "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. They can also kick players off the game. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
                     "subtitles": true,
-                    "length": "20 - 25 minutes",
+                    "length": "20 - 25 минут",
                     "type": "VERSUS",
                     "translation": "NATIVELY_TRANSLATED",
                     "tagline":"T-Shirt Knock Out",
@@ -2856,7 +2856,7 @@
                     "moderation":"FULL_MODERATION",
                     "moderation_description":"With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to kick players off the game if necessary.",
                     "subtitles": true,
-                    "length": "15 - 20 minutes",
+                    "length": "15 - 20 минут",
                     "type": "VERSUS",
                     "translation": "NATIVELY_TRANSLATED",
                     "tagline": "Time to play",
@@ -2900,7 +2900,7 @@
                     "moderation":"FULL_MODERATION",
                     "moderation_description":"With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. They can also kick players off the game. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
                     "subtitles": true,
-                    "length": "15 - 20 minutes",
+                    "length": "15 - 20 минут",
                     "type": "VERSUS",
                     "translation": "NATIVELY_TRANSLATED",
                     "tagline": "A total word jumble",
@@ -2945,7 +2945,7 @@
                     "moderation":"FULL_MODERATION",
                     "moderation_description":"With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to kick players off the game if necessary.",
                     "subtitles": true,
-                    "length": "15 - 25 minutes",
+                    "length": "15 - 25 минут",
                     "type": "COOP",
                     "translation": "NATIVELY_TRANSLATED",
                     "tagline": "Unbridled music",
@@ -2988,7 +2988,7 @@
                     "moderation": "FULL_MODERATION",
                     "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. They can also kick players off the game. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
                     "subtitles": true,
-                    "length": "15 - 25 minutes",
+                    "length": "15 - 25 минут",
                     "type": "COOP",
                     "translation": "NATIVELY_TRANSLATED",
                     "tagline": "Team hypnosis",
@@ -3020,7 +3020,7 @@
     {
         "id":"jpstarter",
         "name":"The Jackbox Party Starter",
-        "description":"Year of release: 2022",
+        "description":"Год выпуска: 2022",
         "launchers_id":{
             "steam":"1755580",
             "epic":"dc6b83bf4b94436db882f770ed8d5257"
@@ -3056,7 +3056,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -3102,7 +3102,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -3149,7 +3149,7 @@
                         "min":1,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -3194,7 +3194,7 @@
     {
         "id":"fbxl",
         "name":"Fibbage XL",
-        "description":"Year of release: 2016",
+        "description":"Год выпуска: 2016",
         "launchers_id":{
             "steam":"448080"
         },
@@ -3228,7 +3228,7 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -3270,7 +3270,7 @@
     {
         "id":"quip",
         "name":"Quiplash",
-        "description":"Year of release: 2015",
+        "description":"Год выпуска: 2015",
         "launchers_id":{
             "steam":"351510"
         },
@@ -3304,7 +3304,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -3348,7 +3348,7 @@
     {
         "id":"quip2int",
         "name":"Quiplash 2 InterLASHional",
-        "description":"Year of release: 2020",
+        "description":"Год выпуска: 2020",
         "launchers_id":{
             "steam":"1111940"
         },
@@ -3381,7 +3381,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -3425,7 +3425,7 @@
     {
         "id":"df2",
         "name":"Drawful 2",
-        "description":"Year of release: 2016",
+        "description":"Год выпуска: 2016",
         "launchers_id":{
             "steam":"442070",
             "epic":"Daisy"
@@ -3461,7 +3461,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -3506,7 +3506,7 @@
         {
         "id":"ydkjvol1",
         "name":"YOU DON'T KNOW JACK Vol. 1 XL",
-        "description":"Year of release: 1995",
+        "description":"Год выпуска: 1995",
         "launchers_id":{
             "steam":"252730"
         },
@@ -3536,7 +3536,7 @@
                         "min":1,
                         "max":3
                     },
-                    "length":"15 - 30 minutes",
+                    "length":"15 - 30 минут",
                     "playtime":{
                         "min":15,
                         "max":30
@@ -3576,7 +3576,7 @@
     {
         "id":"ydkjsports",
         "name":"YOU DON'T KNOW JACK SPORTS",
-        "description":"Year of release: 1996",
+        "description":"Год выпуска: 1996",
         "launchers_id":{
             "steam":"260020"
         },
@@ -3606,7 +3606,7 @@
                         "min":1,
                         "max":3
                     },
-                    "length":"15 - 30 minutes",
+                    "length":"15 - 30 минут",
                     "playtime":{
                         "min":15,
                         "max":30
@@ -3646,7 +3646,7 @@
     {
         "id":"ydkjvol2",
         "name":"YOU DON'T KNOW JACK Vol. 2",
-        "description":"Year of release: 1996",
+        "description":"Год выпуска: 1996",
         "launchers_id":{
             "steam":"259940"
         },
@@ -3676,7 +3676,7 @@
                         "min":1,
                         "max":3
                     },
-                    "length":"15 - 30 minutes",
+                    "length":"15 - 30 минут",
                     "playtime":{
                         "min":15,
                         "max":30
@@ -3716,7 +3716,7 @@
     {
         "id":"ydkjmovies",
         "name":"YOU DON'T KNOW JACK MOVIES",
-        "description":"Year of release: 1997",
+        "description":"Год выпуска: 1997",
         "launchers_id":{
             "steam":"260000"
         },
@@ -3746,7 +3746,7 @@
                         "min":1,
                         "max":3
                     },
-                    "length":"15 - 30 minutes",
+                    "length":"15 - 30 минут",
                     "playtime":{
                         "min":15,
                         "max":30
@@ -3786,7 +3786,7 @@
     {
         "id":"ydkjtv",
         "name":"YOU DON'T KNOW JACK TELEVISION",
-        "description":"Year of release: 1997",
+        "description":"Год выпуска: 1997",
         "launchers_id":{
             "steam":"260040"
         },
@@ -3816,7 +3816,7 @@
                         "min":1,
                         "max":3
                     },
-                    "length":"15 - 30 minutes",
+                    "length":"15 - 30 минут",
                     "playtime":{
                         "min":15,
                         "max":30
@@ -3856,7 +3856,7 @@
     {
         "id":"ydkjvol3",
         "name":"YOU DON'T KNOW JACK Vol. 3",
-        "description":"Year of release: 1997",
+        "description":"Год выпуска: 1997",
         "launchers_id":{
             "steam":"259960"
         },
@@ -3886,7 +3886,7 @@
                         "min":1,
                         "max":3
                     },
-                    "length":"15 - 30 minutes",
+                    "length":"15 - 30 минут",
                     "playtime":{
                         "min":15,
                         "max":30
@@ -3926,7 +3926,7 @@
     {
         "id":"ydkjheadrush",
         "name":"YOU DON'T KNOW JACK HEADRUSH",
-        "description":"Year of release: 1998",
+        "description":"Год выпуска: 1998",
         "launchers_id":{
             "steam":"260060"
         },
@@ -3956,7 +3956,7 @@
                         "min":1,
                         "max":3
                     },
-                    "length":"15 - 30 minutes",
+                    "length":"15 - 30 минут",
                     "playtime":{
                         "min":15,
                         "max":30
@@ -3996,7 +3996,7 @@
     {
         "id":"ydkjvol4",
         "name":"YOU DON'T KNOW JACK Vol. 4 The Ride",
-        "description":"Year of release: 1998",
+        "description":"Год выпуска: 1998",
         "launchers_id":{
             "steam":"259980"
         },
@@ -4026,7 +4026,7 @@
                         "min":1,
                         "max":3
                     },
-                    "length":"15 - 30 minutes",
+                    "length":"15 - 30 минут",
                     "playtime":{
                         "min":15,
                         "max":30
@@ -4066,7 +4066,7 @@
     {
         "id":"ydkjvol6",
         "name":"YOU DON'T KNOW JACK Vol. 6 The Lost Gold",
-        "description":"Year of release: 2003",
+        "description":"Год выпуска: 2003",
         "launchers_id":{
             "steam":"260080"
         },
@@ -4129,7 +4129,7 @@
                         "min":1,
                         "max":3
                     },
-                    "length":"15 - 30 minutes",
+                    "length":"15 - 30 минут",
                     "playtime":{
                         "min":15,
                         "max":30
@@ -4169,7 +4169,7 @@
     {
         "id":"uyw",
         "name":"Use Your Words",
-        "description":"Year of release: 2017",
+        "description":"Год выпуска: 2017",
         "launchers_id":{
             "steam":"521350"
         },
@@ -4198,7 +4198,7 @@
                         "min":3,
                         "max":6
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20 - 25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -4238,7 +4238,7 @@
     {
         "id":"wtd",
         "name":"What The Dub?!",
-        "description":"Year of release: 2021",
+        "description":"Год выпуска: 2021",
         "launchers_id":{
             "steam":"1495860"
         },
@@ -4267,7 +4267,7 @@
                         "min":1,
                         "max":6
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -4307,7 +4307,7 @@
     {
         "id":"rttg",
         "name":"RiffTrax: The Game",
-        "description":"Year of release: 2022",
+        "description":"Год выпуска: 2022",
         "launchers_id":{
             "steam":"1707870"
         },
@@ -4336,7 +4336,7 @@
                         "min":1,
                         "max":6
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -4376,7 +4376,7 @@
     {
         "id":"ppqz",
         "name":"Papa's Quiz",
-        "description":"Year of release: 2020",
+        "description":"Год выпуска: 2020",
         "launchers_id":{
             "steam":"1484730"
         },
@@ -4405,7 +4405,7 @@
                         "min":1,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
