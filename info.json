@@ -11,8 +11,8 @@
             "assets":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets"
         }
     ],
-    "controller":"jackbox.tv",
-    "languages":["en"],
+    "controller":"jackbox.ru",
+    "languages":["ru"],
     "links": [
         {
             "icon":"globe",
